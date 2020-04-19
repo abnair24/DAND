@@ -4,3 +4,4 @@
 .vscode/
 ebert_reviews/
 posters/
+*.db
