@@ -1,6 +1,7 @@
 ## Analyzing Ford Go-Bike System
 
-The dataset includes information about individual trips made in a bike-sharing system covering the greater San Francisco Bay area.[https://s3.amazonaws.com/fordgobike-data/index.html](Ford GoBike Data)
+The dataset includes information about individual trips made in a bike-sharing system covering the greater San Francisco Bay area.
+[Ford GoBike Data](https://s3.amazonaws.com/fordgobike-data/index.html)
 
 ## Questions
 
